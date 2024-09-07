@@ -1,0 +1,14 @@
+TypeScript es un superconjunto de JavaScript que añade características adicionales que lo hacen más robusto y mantenible. Algunas características importantes de TypeScript son:
+
+1. **Tipado estático**: TypeScript permite declarar tipos de variables, funciones, etc., lo que ayuda a detectar errores en tiempo de compilación en lugar de en tiempo de ejecución.
+2. **Interfaces y tipos personalizados**: Permite definir estructuras de datos y validar que los objetos cumplan con esas estructuras, facilitando la organización del código.
+3. **Compatibilidad con ES6/ESNext**: Ofrece soporte para las últimas características de ECMAScript, incluso en entornos que no lo soportan de forma nativa.
+4. **Desarrollo orientado a objetos**: TypeScript soporta clases, herencia, y otros principios de la programación orientada a objetos.
+5. **Sistema de módulos**: Mejora la capacidad de dividir el código en módulos y reutilizarlo en diferentes partes de la aplicación.
+
+Diferencias con JavaScript:
+- **Tipado estático vs dinámico**: En JavaScript, el tipado es dinámico (los tipos se definen en tiempo de ejecución), mientras que en TypeScript es estático (los tipos se definen en tiempo de compilación).
+- **Comprobación de errores en tiempo de compilación**: TypeScript permite detectar errores antes de ejecutar el código, lo que no es posible en JavaScript.
+- **Herramientas de desarrollo**: TypeScript ofrece un autocompletado mejorado y una mayor facilidad de refactorización gracias a su sistema de tipos.
+
+TypeScript se compila a JavaScript, por lo que el código final que se ejecuta en el navegador o servidor es JavaScript estándar.

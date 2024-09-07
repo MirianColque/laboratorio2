@@ -1,0 +1,12 @@
+Template Strings en JavaScript (o template literals) son cadenas de texto que permiten incrustar expresiones mediante ${}. 
+Se crean con comillas invertidas (` `)
+características:
+1.Puedes insertar variables y expresiones directamente dentro de la cadena.
+   Ejemplo: `Hola, ${nombre}!`.
+2.Soportan texto en múltiples líneas sin necesidad de concatenación.
+   Ejemplo: `Línea 1
+Línea 2`.
+3.Permite evaluar expresiones dentro de la cadena.
+
+Diferencia de comillas simples y dobles:
+- Las comillas simples (`' '`) y dobles (`" "`) no permiten interpolación o multilínea nativa.
